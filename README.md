@@ -18,9 +18,7 @@ This project focuses on predicting the presence of cardiovascular disease using 
 10. [Limitations](#limitations)
 11. [Future Scope](#future-scope)
 12. [Technologies Used](#technologies-used)
-13. [Project Structure](#project-structure)
-14. [How to Run the Project](#how-to-run-the-project)
-15. [Acknowledgment](#acknowledgment)
+13. [How to Run the Project](#how-to-run-the-project)
 
 ---
 
@@ -130,9 +128,16 @@ Future improvements may include using larger and more diverse datasets, adding m
 - Matplotlib  
 - Seaborn  
 - Scikit-learn  
-- Jupyter Notebook  
+- Jupyter Notebook
+
 
 ---
 
-## Project Structure
+## How to Run the Project
 
+1. Clone the repository  
+2. Install required libraries  
+3. Open the Jupyter Notebook  
+4. Run all cells in order  
+
+---
